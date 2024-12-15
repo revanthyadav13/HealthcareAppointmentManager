@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5X89OAcwUhSWgr22AChjjrm00/ZirGAm870aFGSdE1I=",
+  "Source": "HealthcareAppointmentManager.API",
+  "BasePath": "_content/HealthcareAppointmentManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

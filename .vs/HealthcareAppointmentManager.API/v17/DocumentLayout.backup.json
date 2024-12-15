@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\repositories\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\repositories\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\repositories\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\repositories\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager\\healthcareappointmentmanager\\models\\repositories\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FEE37-F293-46FE-892C-1E30E1BAE686}|HealthcareAppointmentManager\\HealthcareAppointmentManager.API.csproj|solutionrelative:healthcareappointmentmanager\\models\\repositories\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:23:15.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\appsettings.json",
+              "RelativeToolTip": "HealthcareAppointmentManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T09:03:24.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\IDoctor.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Repositories\\IDoctor.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\IDoctor.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Repositories\\IDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:47:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:49:39.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Program.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Program.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:05:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:05:12.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:58:41.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:54:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Data\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Data\\Patient.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Data\\Patient.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Data\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:53:39.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:47:19.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:46:41.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\IAppointment.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Repositories\\IAppointment.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\IAppointment.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Repositories\\IAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:45:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPatient.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\IPatient.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Repositories\\IPatient.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\IPatient.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Repositories\\IPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:34:28.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager\\Models\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager\\HealthcareAppointmentManager\\Models\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager\\Models\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA7wDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:35:49.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
